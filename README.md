@@ -99,7 +99,7 @@ Performs a comprehensive system scan with full event log analysis.
 ```
 Faster execution with reduced event log analysis scope.
 
-### Export to JSON
+### Export to JSON (CURRENTLY WORKING)
 ```powershell
 .\SysHawk.ps1 -ExportJson
 ```
