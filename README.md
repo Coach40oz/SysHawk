@@ -1,5 +1,3 @@
-# SysHawk
-
 # SysHawk 🦅
 ## PowerShell System Hunter - Comprehensive System Intelligence Tool
 
